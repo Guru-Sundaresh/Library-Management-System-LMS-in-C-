@@ -115,12 +115,12 @@ Memory management
 The doubly linked list allows records to be dynamically managed without the limitations of a fixed-size array.
 
 📂 Project Structure
-Library-Management-System/
-│
-├── main.c
-├── README.md
-└── ...
-
+Library-Management-System/                                                                                                                                                                                            
+│                                                                                                                                                                                                                     
+├── main.c                                                                                                                                                                                                            
+├── README.md                                                                                                                                                                                                         
+└── ...                                                                                                                                                                                                               
+                                                                                                                                                                                                                      
 The exact file structure may vary depending on the implementation.
 
 🔄 Basic Working
